@@ -1,0 +1,7 @@
+streamlit 
+PyPDF2 
+chromadb 
+numpy
+sentence-transformers
+python-dotenv
+google-generativeai
